@@ -10,10 +10,10 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 100px;
+    padding: 10px 20px;
     box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
     position: fixed;
-    width: 90%;
+    width: 100%;
     min-width: 80%;
     top: 0;
     left: 0;
@@ -22,7 +22,7 @@ body {
 }
 
 .companyTitle h2 {
-    color: green;
+    color: blue;
     text-decoration: none;
 }
 
